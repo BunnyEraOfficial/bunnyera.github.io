@@ -4,3 +4,8 @@ description: Build Fast. Operate Smart.
 
 header_pages:
   - index.md
+  - console.md
+  - matrix.md
+  - verifynode.md
+  - deploy.md
+  - resources.md
