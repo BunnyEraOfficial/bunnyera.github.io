@@ -1,0 +1,6 @@
+theme: minima
+title: BunnyEra
+description: Build Fast. Operate Smart.
+
+header_pages:
+  - index.md
