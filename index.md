@@ -1,3 +1,8 @@
+---
+layout: default
+title: BunnyEra — Build Fast. Operate Smart.
+---
+
 # 🐰 BunnyEra — Build Fast. Operate Smart.
 
 BunnyEra 是一个面向全球创业者、跨境团队与自动化系统的专业品牌体系。  
